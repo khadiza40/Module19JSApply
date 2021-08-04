@@ -1,3 +1,4 @@
+//recursion k stopping function bole
 function factorial(n){
     if(n==1){
         return 1;
